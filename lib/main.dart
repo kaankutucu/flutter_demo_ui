@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
       routes: {
         'details' : (ctx) => DetailsScreen(),
       }
+
     );
   }
 }
